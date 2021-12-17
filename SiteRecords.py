@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-#Ask for the requirted user input
+#Ask for the required user input
 name = str(input("How and where do you want to save the file? (e.g. C:/Users/Woute/Downloads/SRs.xlsx)?: "))
 year = int(input("What year is it?: "))
 month = int(input("What month is it? (1-12): "))
