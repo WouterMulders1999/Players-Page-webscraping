@@ -12,3 +12,5 @@ Each python file should create one Excel file. One contains AF cuts and the othe
 
 Both files will ask you to input where you want to save the file. For this type location/filename.xlsx.
 The Site Records file will also ask for the year and month. For this input in numbers first the year and then the month.
+
+**If this is your first time working with these codes** please do not forget to install the required packages. For this, you can open any command or Anaconda prompt and type !pip install -r requirements.txt.
